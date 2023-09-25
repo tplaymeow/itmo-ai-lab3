@@ -1,0 +1,27 @@
+Distance between timur and ford is 7
+Distance between gleb and vk is 7
+Distance between roman and tinkoff is 8
+timur has neighbor
+gleb hasn't neighbor
+roman has neighbor
+vadim has neighbor
+timur and vadim are neighbors
+timur and gleb aren't neighbors
+timur and roman are neighbors
+vadim and gleb aren't neighbors
+vadim and roman aren't neighbors
+roman and gleb aren't neighbors
+All timur price is 200
+All vadim price is 200
+All roman price is 200
+All gleb price is 600
+Distance between timur and gleb is 6
+Distance between timur and vadim is 1
+Distance between timur and roman is 1
+Distance between vadim and gleb is 7
+Distance between vadim and roman is 2
+Distance between roman and gleb is 5
+timur has holiday_inn
+gleb has vk, yandex, microsoft
+roman has bmw
+vadim has sber
