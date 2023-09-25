@@ -24,4 +24,5 @@ Distance between roman and gleb is 5
 timur has holiday_inn
 gleb has vk, yandex, microsoft
 roman has bmw
+
 vadim has sber

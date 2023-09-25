@@ -6,5 +6,5 @@ if [ "$OUTPUT" == "$EXPECTED_OUTPUT" ]
 then
   echo 'Tests OK'
 else
-  echo 'Tests failed'
+  >&2 echo 'Tests failed'
 fi
