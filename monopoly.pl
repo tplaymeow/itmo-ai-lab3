@@ -6,7 +6,7 @@ balance(gleb, 300).
 player_position(timur, 0).
 player_position(roman, 1).
 player_position(vadim, 15).
-player_position(gleb, 6).
+player_position(gleb, 10).
 
 object_category(four_seasons, hotel).
 object_category(holiday_inn, hotel).
@@ -52,7 +52,9 @@ player_ownership(roman, bmw).
 player_ownership(vadim, sber).
 player_ownership(gleb, vk).
 player_ownership(gleb, yandex).
-player_ownership(gleb, microsoft).
+
+has_owner(Object) :-
+    player_ownership(_, Object).
 
 distance_to_object(Player, Object, Distance) :-
     player_position(Player, PlayerPos),

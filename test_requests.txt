@@ -25,3 +25,9 @@ What objects does timur have?
 What objects does gleb have?
 What objects does roman have?
 What objects does vadim have?
+Can timur buy vk?
+Can vadim buy tinkoff?
+Where should gleb go?
+Where should timur go?
+Where should vadim go?
+Where should roman go?
